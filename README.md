@@ -10,3 +10,4 @@ This repository provides Python Programming Basics for data scientists
 * Functions
 * Loops
 * Functions
+* Python Libraries mainly `Pandas` and `Numpy`
